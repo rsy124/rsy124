@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @rsy124 Rutuja_Yadav
-- 👀 I’m interested in Artificial Intelligemce
-- 🌱 I’m currently learning Software Engineering(Agile)
-- 💞️ I’m looking to collaborate on projects that align with my skill set and will add a value to the team.
-- 📫 How to reach me : DM https://www.linkedin.com/in/rutuja-yadav-949b00288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: What does website like to eat? LOL=>Cookies
+# Hi, I'm Rutuja 👋
 
-<!---
-rsy124/rsy124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech Computer Science & Engineering Student
+
+💻 Interested in Software Development, AI Applications, Backend Development, and Problem Solving.
+
+## Tech Stack
+
+- Java
+- Python
+- SQL
+- JDBC
+- HTML, CSS, JavaScript
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+
+## Projects
+
+🔹 Veri AI
+AI-powered fact verification, research paper evaluation, and deepfake image detection platform.
+
+🔹 Smart City AI Agent
+Intelligent assistant designed to enhance urban services and citizen engagement.
+
+🔹 Personal Carbon Footprint Application
+Application focused on sustainability and environmental awareness.
+
+🔹 Spring Pet Clinic
+Enterprise application built using Spring ecosystem concepts.
+
+## Currently Learning
+
+- Spring Boot
+- System Design Fundamentals
+- Backend Development
+- Cloud & AI Technologies
+
+## Goals
+
+Seeking Software Engineering, Java Developer, Backend Developer, and AI-focused internship opportunities.
+
+Let's connect and build impactful solutions!
